@@ -1,0 +1,10 @@
+C:\Users\aluno\Desktop\ValidarCNPJ_CPF\ValidarCNPJ_CPF\obj\Debug\ValidarCNPJ_CPF.csprojAssemblyReference.cache
+C:\Users\aluno\Desktop\ValidarCNPJ_CPF\ValidarCNPJ_CPF\obj\Debug\ValidarCNPJ_CPF.Form1.resources
+C:\Users\aluno\Desktop\ValidarCNPJ_CPF\ValidarCNPJ_CPF\obj\Debug\ValidarCNPJ_CPF.Properties.Resources.resources
+C:\Users\aluno\Desktop\ValidarCNPJ_CPF\ValidarCNPJ_CPF\obj\Debug\ValidarCNPJ_CPF.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\ValidarCNPJ_CPF\ValidarCNPJ_CPF\obj\Debug\ValidarCNPJ_CPF.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\ValidarCNPJ_CPF\ValidarCNPJ_CPF\bin\Debug\ValidarCNPJ_CPF.exe.config
+C:\Users\aluno\Desktop\ValidarCNPJ_CPF\ValidarCNPJ_CPF\bin\Debug\ValidarCNPJ_CPF.exe
+C:\Users\aluno\Desktop\ValidarCNPJ_CPF\ValidarCNPJ_CPF\bin\Debug\ValidarCNPJ_CPF.pdb
+C:\Users\aluno\Desktop\ValidarCNPJ_CPF\ValidarCNPJ_CPF\obj\Debug\ValidarCNPJ_CPF.exe
+C:\Users\aluno\Desktop\ValidarCNPJ_CPF\ValidarCNPJ_CPF\obj\Debug\ValidarCNPJ_CPF.pdb
